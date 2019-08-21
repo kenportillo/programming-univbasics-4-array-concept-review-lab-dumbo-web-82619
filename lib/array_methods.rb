@@ -20,7 +20,7 @@ def find_max_value(array)
   counter = 0 
   
   while counter < array.length do
-    if 
+    if array ==
     
     counter += 1 
   end 
